@@ -2,17 +2,9 @@
 
 [![Discord DM](https://img.shields.io/badge/Discord-Ruyy%238136-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/MrWolfdale#0619/)
 ---
-
 <br>
 
-<p>
-  My name is <strong>Eduardo</strong>, I'm 23 and was born and rased in Brazil! I'm passionate about technology and always seek for new adventures. 
-</p>
-<br>
-
-> "*Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.*" - Steve Jobs
-
-## Hi there, I'm Eduardo - a lover of Android 👋 <br />
+## Hi there, I'm Eduardo - a lover of Technologie 👋 <br />
 ### I'm an Full Stack Developer, Dota 2 Player and Cybersecurity Student
 <img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -27,6 +19,8 @@
 [<img align="left" alt="Eduardo Felipe | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" />](https://twitter.com/eduardlimma)
 [![Gmail Badge](https://img.shields.io/badge/-eduardlimmadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardlimmadev@gmail.com)](mailto:eduardlimmadev@gmail.com)
 <br />
+
+> "*Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.*" - Steve Jobs
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
