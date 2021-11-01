@@ -1,6 +1,6 @@
 ## Hi there, Dev! 👋 
 
-[![Discord DM](https://img.shields.io/badge/Discord-Ruyy%238136-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/MrWolfdale#0619/)
+[![Discord DM](https://img.shields.io/badge/Discord-MrWolfdale%230619-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/MrWolfdale#0619/)
 ---
 <br>
 
