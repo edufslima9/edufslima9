@@ -10,7 +10,7 @@
 
 -  🔭 &nbsp;&nbsp;I’m currently working on a React | Kotlin | .NET Core | Postgres
 -  🌱  &nbsp;&nbsp;I’m currently learning UX/UI
--  🥅  &nbsp;&nbsp;2021 Goals: Being able to create applications with UX/UI knowledge (Front-end) and learn design patterns, SOLID, TDD, BDD, DDD, clean architecture Message Broker and DevOps (Back-End)
+-  🥅  &nbsp;&nbsp;2021 Goals: Being able to create applications with UX/UI knowledge (Front-end) and learn Design Patterns, SOLID, TDD, BDD, DDD, Clean Architecture, Message Broker and DevOps (Back-End)
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of System Of A Down!
   
 ### 🤝🏻 Connect with me:
