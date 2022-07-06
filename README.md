@@ -8,10 +8,12 @@
 ### I'm an Full Stack Developer, Dota 2 Player and Cybersecurity Student
 <img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+-  ⚔️  &nbsp;&nbsp;More than 3 years of development expertise
 -  🔭  &nbsp;&nbsp;I’m currently working on a React | Kotlin | .NET Core | Postgres
 -  💻  &nbsp;&nbsp;I've been used SOLID, Clean Code and Design Patterns
 -  🌱  &nbsp;&nbsp;I’m currently learning .NetCore API's Data Driven, DDD and Unit Tests
 -  🥅  &nbsp;&nbsp;2022 Goals: Being able to create applications with UX/UI knowledge (Front-end) and learn TDD, BDD, DDD, Clean Architecture, Message Broker and DevOps (Back-End)
+-  🚀  &nbsp;&nbsp;I aim to become a software/solutions architect (and maybe a Microsoft MVP 😁)
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of System Of A Down!
   
 ### 🤝🏻 Connect with me:
