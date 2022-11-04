@@ -1,6 +1,8 @@
 ## Hi there, Dev! 👋 
 
-[![Discord DM](https://img.shields.io/badge/Discord-MrWolfdale%230619-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/MrWolfdale#0619/)
+[![Discord DM](https://img.shields.io/badge/Discord-MrWolfdale%230619-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/MrWolfdale#0619/)&nbsp;&nbsp;
+![](https://komarev.com/ghpvc/?username=edufslima9&style=for-the-badge&color=blue)&nbsp;&nbsp;
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://pt.stackoverflow.com/users/134940/eduardo-felipe)
 ---
 <br>
 
