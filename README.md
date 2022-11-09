@@ -41,6 +41,8 @@
 <h5 align="center">Back-end:</h5>
 <p align="center">
 <img alt=".Net Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img alt="EF Core" width="26px" src="https://github.com/edufslima9/edufslima9/blob/master/Icons/ef_core.svg" />
+<img alt="Dapper" width="26px" src="https://github.com/edufslima9/edufslima9/blob/master/Icons/dapper.svg" />
 </p>
 <h5 align="center">Mobile:</h5>
 <p align="center">
