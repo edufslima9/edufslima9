@@ -2,7 +2,6 @@
 
 [![Discord DM](https://img.shields.io/badge/Discord-MrWolfdale%230619-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/MrWolfdale#0619/)&nbsp;&nbsp;
 ![](https://komarev.com/ghpvc/?username=edufslima9&style=for-the-badge&color=blue)&nbsp;&nbsp;
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://pt.stackoverflow.com/users/134940/eduardo-felipe)
 ---
 <br>
 
@@ -64,11 +63,6 @@
   <img alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
-
-<br>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=edufslima9&theme=dracula&hide_border=true)
 
 <br>
 
