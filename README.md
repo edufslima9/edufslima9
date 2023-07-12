@@ -16,7 +16,33 @@
 -  🥅  &nbsp;&nbsp;2022 Goals: Being able to create applications with UX/UI knowledge (Front-end) and learn TDD, BDD, DDD, Clean Architecture, Message Broker and DevOps (Back-End)
 -  🚀  &nbsp;&nbsp;I aim to become a software/solutions architect (and maybe a Microsoft MVP 😁)
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of System Of A Down!
-  
+
+<h3>Books:</h3>
+<h5>Read:</h5>
+- Clean Code: A Handbook of Agile Software Craftsmanship - Robert C.Martin<br/>
+- The Clean Coder: A Code of Conduct for Professional Programmers - Robert C.Martin<br/>
+<br/>
+<h5>Reading:</h5>
+- Design Patterns: Elements of Reusable Object-Oriented Software - (Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides) GOF<br/>
+- Introduction to Algorithms, fourth edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein<br/>
+<br/>
+<h5>To read:</h5>
+- Test Driven Development: By Example - Kent Beck<br/>
+- Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans<br/>
+- Refactoring: Improving the Design of Existing Code - Martin Fowler<br/>
+- Patterns of Enterprise Application Architecture - Martin Fowler<br/>
+- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Jez Humble, David Farley<br/>
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C.Martin<br/>
+- Fundamentals of Software Architecture: An Engineering Approach - Mark Richards, Neal Ford<br/>
+- Building Microservices: Designing Fine-Grained Systems - Sam Newman<br/>
+- Mythical Man-Month, The: Essays on Software Engineering - Frederick Brooks Jr.<br/>
+- The Pragmatic Programmer: Your Journey To Mastery - David Thomas, Andrew Hunt<br/>
+- Cracking the Coding Interview: 189 Programming Questions and Solutions - Gayle Laakmann McDowell<br/>
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann<br/>
+- Observability Engineering: Achieving Production Excellence - Charity Majors, Liz Fong-Jones, George Miranda<br/>
+- Software Engineering at Google: Lessons Learned from Programming Over Time - Titus Winters, Tom Manshreck, Hyrum Wright<br/>
+<br/>
+
 ### 🤝🏻 Connect with me:
 
 [<img align="left" alt="Eduardo Felipe | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" />](https://www.linkedin.com/in/edufslima9/)
