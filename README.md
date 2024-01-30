@@ -13,7 +13,7 @@
 -  🔭  &nbsp;&nbsp;I’m currently working on a React | Abgular | .NET Core | Postgres | MySQL | SQL Server | AWS | Azure
 -  💻  &nbsp;&nbsp;I have developed solutions, using different architectural styles and different types of storage
 -  🌱  &nbsp;&nbsp;I’m currently learning Patterns of Enterprise Application Architecture and software quality, using Sonar
--  🥅  &nbsp;&nbsp;2024 Goals: Aprender o máximo possível sobre arquitetura, testes e qualidade e padrões de software. E tirar uma certificação AWS
+-  🥅  &nbsp;&nbsp;2024 Goals: Learn as much as possible about architecture, testing and quality, and software standards. And get an AWS certification
 -  🚀  &nbsp;&nbsp;I aim to become a software/solutions architect (and maybe a Microsoft MVP 😁)
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of System Of A Down!
 
