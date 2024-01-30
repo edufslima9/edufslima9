@@ -10,10 +10,10 @@
 <img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 -  ⚔️  &nbsp;&nbsp;More than 4 years of development expertise
--  🔭  &nbsp;&nbsp;I’m currently working on a React | Kotlin | .NET Core | Postgres
--  💻  &nbsp;&nbsp;I've been used SOLID, Clean Code and Design Patterns
--  🌱  &nbsp;&nbsp;I’m currently learning .NetCore API's Data Driven, DDD and Unit Tests
--  🥅  &nbsp;&nbsp;2022 Goals: Being able to create applications with UX/UI knowledge (Front-end) and learn TDD, BDD, DDD, Clean Architecture, Message Broker and DevOps (Back-End)
+-  🔭  &nbsp;&nbsp;I’m currently working on a React | Abgular | .NET Core | Postgres | MySQL | SQL Server | AWS | Azure
+-  💻  &nbsp;&nbsp;I have developed solutions, using different architectural styles and different types of storage
+-  🌱  &nbsp;&nbsp;I’m currently learning Patterns of Enterprise Application Architecture and software quality, using Sonar
+-  🥅  &nbsp;&nbsp;2024 Goals: Aprender o máximo possível sobre arquitetura, testes e qualidade e padrões de software. E tirar uma certificação AWS
 -  🚀  &nbsp;&nbsp;I aim to become a software/solutions architect (and maybe a Microsoft MVP 😁)
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of System Of A Down!
 
