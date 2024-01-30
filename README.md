@@ -21,18 +21,18 @@
 <h5>Read:</h5>
 - Clean Code: A Handbook of Agile Software Craftsmanship - Robert C.Martin<br/>
 - The Clean Coder: A Code of Conduct for Professional Programmers - Robert C.Martin<br/>
-<br/>
-<h5>Reading:</h5>
 - Design Patterns: Elements of Reusable Object-Oriented Software - (Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides) GOF<br/>
-- Introduction to Algorithms, fourth edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein<br/>
-<br/>
-<h5>To read:</h5>
 - Test Driven Development: By Example - Kent Beck<br/>
 - Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans<br/>
+<br/>
+<h5>Reading:</h5>
+- Introduction to Algorithms, fourth edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein<br/>
 - Refactoring: Improving the Design of Existing Code - Martin Fowler<br/>
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C.Martin<br/>
+<br/>
+<h5>To read:</h5>
 - Patterns of Enterprise Application Architecture - Martin Fowler<br/>
 - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Jez Humble, David Farley<br/>
-- Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C.Martin<br/>
 - Fundamentals of Software Architecture: An Engineering Approach - Mark Richards, Neal Ford<br/>
 - Building Microservices: Designing Fine-Grained Systems - Sam Newman<br/>
 - Mythical Man-Month, The: Essays on Software Engineering - Frederick Brooks Jr.<br/>
