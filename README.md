@@ -9,10 +9,10 @@
 ### I'm an Full Stack Developer, Dota 2 Player and Cybersecurity Student
 <img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
--  ⚔️  &nbsp;&nbsp;More than 4 years of development expertise
--  🔭  &nbsp;&nbsp;I’m currently working on a React | Abgular | .NET Core | Postgres | MySQL | SQL Server | AWS | Azure
+-  ⚔️  &nbsp;&nbsp;More than 5 years of development expertise
+-  🔭  &nbsp;&nbsp;I’m currently working on a React | Angular | .NET Core | Postgres | MySQL | SQL Server | DynamoDB | Redis | AWS | Azure | Docker | Kubernetes | Rancher
 -  💻  &nbsp;&nbsp;I have developed solutions, using different architectural styles and different types of storage
--  🌱  &nbsp;&nbsp;I’m currently learning Patterns of Enterprise Application Architecture and software quality, using Sonar
+-  🌱  &nbsp;&nbsp;I’m currently learning Enterprise Integration Patterns and UI/UX Best pratices
 -  🥅  &nbsp;&nbsp;2024 Goals: Learn as much as possible about architecture, testing and quality, and software standards. And get an AWS certification
 -  🚀  &nbsp;&nbsp;I aim to become a software/solutions architect (and maybe a Microsoft MVP 😁)
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of System Of A Down!
@@ -24,16 +24,16 @@
 - Design Patterns: Elements of Reusable Object-Oriented Software - (Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides) GOF<br/>
 - Test Driven Development: By Example - Kent Beck<br/>
 - Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans<br/>
-<br/>
-<h5>Reading:</h5>
 - Introduction to Algorithms, fourth edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein<br/>
 - Refactoring: Improving the Design of Existing Code - Martin Fowler<br/>
 - Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C.Martin<br/>
 <br/>
-<h5>To read:</h5>
+<h5>Reading:</h5>
 - Patterns of Enterprise Application Architecture - Martin Fowler<br/>
 - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Jez Humble, David Farley<br/>
 - Fundamentals of Software Architecture: An Engineering Approach - Mark Richards, Neal Ford<br/>
+<br/>
+<h5>To read:</h5>
 - Building Microservices: Designing Fine-Grained Systems - Sam Newman<br/>
 - Mythical Man-Month, The: Essays on Software Engineering - Frederick Brooks Jr.<br/>
 - The Pragmatic Programmer: Your Journey To Mastery - David Thomas, Andrew Hunt<br/>
