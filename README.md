@@ -67,6 +67,8 @@
 <p>🔵 Typescript</p>
 <p>🔵 Python</p>
 
+<br/>
+
 ### 💻 Front-end:
 <p>🔵 HTML5&nbsp;&nbsp;|&nbsp;&nbsp;CSS3&nbsp;&nbsp;</p>
 <p>🔵 React</p>
@@ -76,6 +78,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;💠 Test: Jest</p>
 <p>🔵 Angular</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;💠 Theming: Bootstrap</p>
+
+<br/>
 
 ### 🔥 Back-end:
 <p>🔵 .Net</p>
@@ -91,15 +95,21 @@
 <p>🔵 ElasticSearch</p>
 <p>🔵 Messaging: RabbitMQ&nbsp;&nbsp;|&nbsp;&nbsp;SQS&nbsp;&nbsp;|&nbsp;&nbsp;SNS</p>
 
+<br/>
+
 ### 📄 Databases and Caching:
 <p>🔵 Relational: PostgreSQL&nbsp;&nbsp;|&nbsp;&nbsp;MySQL&nbsp;&nbsp;|&nbsp;&nbsp;SqlServer</p>
 <p>🔵 Non-relational: MongoDB&nbsp;&nbsp;|&nbsp;&nbsp;DynamoDB</p>
 <p>🔵 Caching: Redis</p>
 
+<br/>
+
 ### 🔩 Infra:
 <p>🔵 Containers: Docker</p>
 <p>🔵 Orchestration: Kubernetes&nbsp;&nbsp;|&nbsp;&nbsp;KEDA&nbsp;&nbsp;|&nbsp;&nbsp;Helm</p>
 <p>🔵 CI/CD: Azure DevOps&nbsp;&nbsp;|&nbsp;&nbsp;Jenkins&nbsp;&nbsp;|&nbsp;&nbsp;GitHub Actions</p>
+
+<br/>
 
 ### ☁ Cloud and AWS Services:
 <p>🔵 Application integration: EventBridge&nbsp;&nbsp;|&nbsp;&nbsp;SNQ&nbsp;&nbsp;|&nbsp;&nbsp;SQS&nbsp;&nbsp;|&nbsp;&nbsp;Step Functions&nbsp;&nbsp;|&nbsp;&nbsp;MQ</p>
@@ -111,6 +121,8 @@
 <p>🔵 Networking and content delivery: API Gateway&nbsp;&nbsp;|&nbsp;&nbsp;CloudFront&nbsp;&nbsp;|&nbsp;&nbsp;Route 53&nbsp;&nbsp;|&nbsp;&nbsp;VPC&nbsp;&nbsp;|&nbsp;&nbsp;Elastic Load Balaning</p>
 <p>🔵 Security, identity, and compliance: Secrets Manager&nbsp;&nbsp;|&nbsp;&nbsp;IAM</p>
 <p>🔵 Storage: S3</p>
+
+<br/>
 
 ### 🏗 Architecture & Good Practices
 <p>🔵 Clean Architecture</p>
@@ -126,8 +138,12 @@
 <p>🔵 Patterns of Enterprise Application Architecture</p>
 <p>🔵 Micro-Frontends</p>
 
+<br/>
+
 ### 📱 Mobile:
 <p>🔵 Kotlin</p>
+
+<br/>
 
 ### 🔧 Tools:
 <p>🔵 Versioning: Github&nbsp;&nbsp;|&nbsp;&nbsp;Gitlab&nbsp;&nbsp;|&nbsp;&nbsp;Azure Repos&nbsp;&nbsp;|&nbsp;&nbsp;BitBucket</p>
@@ -137,12 +153,15 @@
 <p>🔵 DrawIO (Diagrams.net)</p>
 <p>🔵 Jira</p>
 
+<br/>
+
 ### :godmode: Skills:
 <p>🔵 Code Review</p>
 <p>🔵 Requirements analysis</p>
 <p>🔵 Software Component Modeling</p>
 <p>🔵 Experience in documentation, modeling and development of SaaS, Omnichannel and microservice solutions</p>
 <p>🔵 Experience in Evolutive Architectures (POC&nbsp;&nbsp;|&nbsp;&nbsp;MVP)</p>
+
 ---
 
 <br>
